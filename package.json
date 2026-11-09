@@ -1,0 +1,10 @@
+{
+  "name": "decupa-youtube-transcriber",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test utils.test.js",
+    "check": "node --check app.js && node --check worker.js && node --check utils.js"
+  }
+}

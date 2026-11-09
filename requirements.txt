@@ -1,0 +1,3 @@
+yt-dlp[default]>=2025.10.22,<2027
+faster-whisper>=1.2.1,<2
+
